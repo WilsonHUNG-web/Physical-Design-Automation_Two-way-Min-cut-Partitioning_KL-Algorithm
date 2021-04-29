@@ -1,4 +1,4 @@
-# HW2_Physical-Design
+# Two-way-Min-cut-Partitioning
 
 --How to compile
 
