@@ -7,7 +7,7 @@
   $ make
   It will generate the executable file "main" in "HW2/bin/".
   
-  If you want to remove it, please enter the following command"
+  <br>If you want to remove it, please enter the following command"</br>
   $ make clean
   
   
