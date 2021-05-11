@@ -12,9 +12,9 @@
   
   
 --How to Run
-  In this directory, enter the following command:
-  Usage: ../bin/<exe> <hardblocks file> <nets file> <pl file> dead_ratio
-  e.g.
+ In this directory, enter the following command: <br>
+  Usage: ../bin/<exe> <hardblocks file> <nets file> <pl file> dead_ratio<br>
+  e.g.<br>
   $ ../bin/hw3 ../testcase/n100.hardblocks ../testcase/n100.nets ../testcase/n100.pl 0.1
 
   In "HW3/src/", enter the following command:
