@@ -1,4 +1,4 @@
-# Two-way-Min-cut-Partitioning
+# Two-way-Min-cut-Partitioning, KL-algorithm
 
 --How to compile
 
